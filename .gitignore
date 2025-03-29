@@ -1,0 +1,9 @@
+
+node_modules/
+out/
+build/
+release/
+*.log
+*.lock
+.DS_Store
+.vscode/
